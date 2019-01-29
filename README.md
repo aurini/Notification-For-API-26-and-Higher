@@ -3,14 +3,14 @@ This is an application that shows notification if a button is pressed. It is mai
 
 
 
-#Adding some screenshot below.
+# Adding some screenshot below.
 
-#Screenshot one
+# Screenshot one
 ![screenshot_1548760547](https://user-images.githubusercontent.com/17299485/51905165-bd7e4800-23ea-11e9-88b9-97a74b8ce421.png)
 
 
 
-#Screenshot two
+# Screenshot two
 ![screenshot_1548760682](https://user-images.githubusercontent.com/17299485/51905250-f0284080-23ea-11e9-8714-4bee671eb32f.png)
 
 
